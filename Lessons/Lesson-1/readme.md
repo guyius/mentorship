@@ -1,4 +1,6 @@
-Hello!
+# Lesson one
+
+### Hello!
 
 This is our first ever exercise together, I hope my personal story will help
 inspire you. Being a junior or even a beginners in the field of development is hard. There is so much you feel you don't know, there are endless questions and struggles and its easy to find your self spend 5 hours on something you later feel was obvious. 
