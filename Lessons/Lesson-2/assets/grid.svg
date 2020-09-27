@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="29px" viewBox="0 0 31 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ICON Grid</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-" transform="translate(-439.000000, -163.000000)">
+            <g id="Conversion-Box" transform="translate(408.000000, 139.000000)">
+                <rect id="BG-Conversion" fill="#FFFFFF" x="0" y="0" width="1068" height="704" rx="10"></rect>
+                <g id="Head">
+                    <path d="M0,10.0071783 C0,4.48036635 4.4723843,0 9.99556391,0 L1058.00444,0 C1063.52483,0 1068,4.47266735 1068,10.0071783 L1068,77 L0,77 L0,10.0071783 Z" id="Rectangle-4-Copy-5" fill="#46A9D4"></path>
+                    <g id="ICON-Grid" transform="translate(31.000000, 24.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-11" x="0.998441459" y="0.375" width="12.6358696" height="12.2282609"></rect>
+                        <rect id="Rectangle-11-Copy" x="0.998441459" y="16.2717391" width="12.6358696" height="12.2282609"></rect>
+                        <rect id="Rectangle-11-Copy-2" x="17.4250719" y="16.2717391" width="12.6358696" height="12.2282609"></rect>
+                        <rect id="Rectangle-11-Copy-3" x="17.4250719" y="0.375" width="12.6358696" height="12.2282609"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

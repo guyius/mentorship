@@ -1,0 +1,393 @@
+/* General Styles */
+html, body, .app {
+  box-sizing: border-box;
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+  font-family: "helvetica-neue", Helvetica, sans-serif;
+}
+
+a, a:hover, a:focus, a:active {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+ul, p, h1, h2, h3, h4, h5, h6 {
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  display: flex;
+}
+
+/* Navigation Menu */
+
+.navigation {
+  width: 370px;
+  background-color: #484A69;
+  display: flex;
+  flex-direction: column;
+}
+
+.navigation-header {
+  height: 80px;
+  background-color: #46A9D4;
+  display: flex;
+}
+
+.logo {
+  flex-basis: 80%;
+  display: flex;
+  align-content: center;
+}
+
+.logo > img {
+  margin-left: 2rem;
+  height: 40px;
+  align-self: center;
+}
+
+.navigation-header-button {
+  width: 100px;
+  background-color: #ABE6FF;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.navigation-content {
+  color: #B2B2B2;
+  list-style: none;
+  background-color: #505275;
+  padding: 2rem 0;
+}
+
+.navigation-content > li {
+  padding-left: 2rem;
+  height: 1.5rem;
+  cursor: pointer;
+}
+
+.navigation-content > li.active {
+  background-color: #484A69;
+  color: #FFFFFF;
+}
+
+.navigation-group-title,
+.navigation-group-item {
+  padding: 5px 0;
+}
+
+.navigation-group-title {
+  font-size: 12px;
+  font-weight: 100;
+}
+
+.navigation-group-title.second-group {
+  margin-top: 3rem;
+}
+
+.navigation-group-item {
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.navigation-group-item > img {
+  height: 16px;
+  width: 16px;
+  margin-right: 1rem;
+}
+
+.navigation-group-item > p {
+  flex: 1;
+}
+
+.bullet {
+  margin-right: 7rem;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background-color: #9F9FB0;
+  color: #505275;
+  text-align: center;
+  line-height: 24px;
+}
+
+.empty-space {
+  flex: 1;
+}
+
+.action {
+  width: 100%;
+  height: 100px;
+  background-color: #505275;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.action > button {
+  height: 40px;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+  background-color: #61BADF;
+  color: #FFFFFF;
+  border: 1px solid #979797;
+  outline: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.action > button > img {
+  width: 22px;
+  margin-right: 0.75rem;
+}
+/* App */
+
+.app-content {
+  width: 100%;
+  background-color: #DEE9EE;
+}
+
+/* Header */
+
+.app-header {
+  height: 80px;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+.app-header-list {
+  list-style: none;
+  flex: 2;
+}
+
+.app-header-list-item {
+  display: inline-block;
+  color: #C3C3C3;
+  font-weight: lighter;
+  padding: .5rem 1rem
+}
+
+.app-header-list-item.active {
+  color: #46A9D4;
+  border: 1px solid #46A9D4;
+  border-radius: 40px;
+}
+
+.app-header-actions {
+  display: flex;
+  align-items: center;
+  flex: 1;
+  margin-left: 1rem;
+}
+
+.app-header-actions > input {
+  height: 40px;  
+  margin-right: 1rem;
+  width: 100%;
+  box-shadow: inset 0 0px 1px #979797;;
+  padding-left: 1rem;
+  background-color: #F9F9F9;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+}
+
+.app-header-actions > input::placeholder {
+  color: #B8B8B8;
+}
+
+.app-header-actions > img {
+  height: 60px;
+}
+
+/* Main Content */
+.main-content {
+  margin: 20px;
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: 400px;
+  grid-gap: 20px;
+}
+
+.main-content.reverse {
+  grid-template-columns: 1fr 2fr;
+}
+
+.card {
+  background: #FFFFFF;
+  border-radius: 10px;
+  width: 100%;
+}
+
+.card-header {
+  background-color: #46A9D4;
+  height: 40px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.card-header-title {
+  color: #FFFFFF;
+  flex: 1;
+  text-align: center;
+}
+
+.card-header-icon {
+  height: 20px;
+  width: 20px;
+}
+
+.card-content {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.card-content.card-content-table {
+  height: calc(100% - 40px);
+  margin-left: -1px;
+}
+
+.card-content.no-padding {
+  padding: 0;
+}
+
+.card-content.full-height {
+  min-height: 100%;
+}
+
+.card-content-conversion-percentage {
+  max-width: 90%;
+}
+
+.conversion-arrows {
+  max-width: 75%;
+  height: 20px;
+  margin-left: 35px;
+}
+
+.totals {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 15px solid #EBEBEB;
+  margin: 25px 0;
+  border-right: 15px solid #ACF3E3;
+}
+
+.average {
+  color: #88D8C6;
+  font-size: 32px;
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.weekly-change {
+  color: #46A9D4;
+  font-size: 14px;
+  text-align: center;
+}
+
+.markets {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 80px;
+}
+
+.markets > li {
+  flex: 1;
+  text-align: center;
+  height: 100%;
+  background-color: #F5F5F5;
+}
+
+.markets > li:nth-child(even) {
+  background-color: #F9F9F9;
+}
+
+.percentage {
+  font-size: 24px;
+  padding-top: 20px;
+}
+
+.location {
+  color: #9A9A9A;
+}
+
+li.negative > .percentage {
+  color: #FF8B4C;
+}
+
+li.positive > .percentage {
+  color: #88D8C6;
+}
+
+.card-content-margin-percentage {
+  max-width: 100%;
+}
+
+.table {
+  width: 100%;
+  height: 100%;
+  background-color: #FFFFFF;
+  text-align: left;
+  font-weight: lighter;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  color: #A6A6A6;
+  display: table;
+}
+
+.table-group,
+.table-header {
+  display: table-row;  
+}
+
+.table-group > div,
+.table-header > div {
+  display: table-cell;
+  vertical-align: middle;
+  padding-left: 2rem;
+}
+
+.table-group:nth-child(even) {
+  background-color: #F5F5F5;
+}
+
+.table-group:nth-child(odd) {
+  background-color: #F9F9F9;
+}
+
+.table-header:first-child {
+  color: #9A9A9A;
+}
+
+.table-group > div:first-child {
+  color: #5CC9B0;
+}
+
+.table-group:last-child > div:last-child {
+  border-bottom-right-radius: 10px;
+}
+
+.table-group:last-child > div:first-child {
+  border-bottom-left-radius: 10px;
+}

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="451px" height="435px" viewBox="0 0 451 435" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Page 1</title>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="62.2285207%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#46D4D3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0.857142857" y="88.2904965" width="129" height="169.059998"></rect>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="62.2285207%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#46D4D3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="129.714286" y="0.0423876889" width="130" height="258.012112"></rect>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="62.2285207%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#46D4D3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="260" y="158.354652" width="129" height="99"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-" transform="translate(-452.000000, -1004.000000)">
+            <g id="Center" transform="translate(408.000000, 139.000000)">
+                <g id="Margin" transform="translate(0.000000, 744.000000)">
+                    <rect id="Bg-Margin" fill="#FFFFFF" x="0" y="0" width="560" height="597" rx="10"></rect>
+                    <g id="X-Axis" transform="translate(131.000000, 528.000000)" fill="#9A9A9A" font-family="HelveticaNeue, Helvetica Neue" font-size="23" font-weight="normal">
+                        <text id="Europe">
+                            <tspan x="0.0714285714" y="22">Europe</tspan>
+                        </text>
+                        <text id="Africa">
+                            <tspan x="142" y="22">Africa</tspan>
+                        </text>
+                        <text id="Asia">
+                            <tspan x="275.5" y="22">Asia</tspan>
+                        </text>
+                    </g>
+                    <g id="Y-Axis" transform="translate(44.000000, 121.000000)" fill="#9A9A9A" font-family="HelveticaNeue, Helvetica Neue" font-size="23" font-weight="normal">
+                        <text id="100-copy">
+                            <tspan x="0" y="210">100</tspan>
+                        </text>
+                        <text id="200">
+                            <tspan x="0" y="22">200</tspan>
+                        </text>
+                        <text id="150">
+                            <tspan x="0" y="116">150</tspan>
+                        </text>
+                        <text id="50">
+                            <tspan x="13" y="304">50</tspan>
+                        </text>
+                        <text id="0">
+                            <tspan x="26" y="401">0</tspan>
+                        </text>
+                    </g>
+                    <g id="Graph-Bg" transform="translate(106.000000, 132.000000)">
+                        <rect id="Rectangle-23-Copy-14" fill="#F5F5F5" x="0.357142857" y="194.645348" width="388.642857" height="189.354652"></rect>
+                        <rect id="Rectangle-45" fill="#F9F9F9" x="1" y="98" width="388" height="98"></rect>
+                        <rect id="Rectangle-45-Copy" fill="#F5F5F5" x="1" y="0" width="388" height="98"></rect>
+                    </g>
+                    <g id="Block-Graphs" transform="translate(106.000000, 258.000000)" opacity="0.665928172">
+                        <g id="Rectangle-23-Copy-17">
+                            <use fill="#A3FFE2" xlink:href="#path-2"></use>
+                            <use fill-opacity="0.129999995" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <use fill-opacity="0.300000012" fill="#43D7C5" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="Rectangle-23-Copy-18">
+                            <use fill="#A3FFE2" xlink:href="#path-4"></use>
+                            <use fill-opacity="0.129999995" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                            <use fill-opacity="0.300000012" fill="#43D7C5" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Rectangle-23-Copy-19">
+                            <use fill="#A3FFE2" xlink:href="#path-6"></use>
+                            <use fill-opacity="0.129999995" fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                            <use fill-opacity="0.300000012" fill="#43D7C5" xlink:href="#path-6"></use>
+                        </g>
+                    </g>
+                    <g id="Lines" transform="translate(107.000000, 229.000000)" stroke="#5AA5E0" stroke-linecap="square">
+                        <line x1="1.5" y1="99" x2="386.51001" y2="99" id="Line" stroke-width="2" opacity="0.156308302"></line>
+                        <line x1="1.5" y1="1" x2="386.51001" y2="1" id="Line-Copy-6" stroke-width="2" opacity="0.156308302"></line>
+                        <line x1="0" y1="188.854652" x2="382.01178" y2="188.854652" id="Line-Copy-7" stroke-width="3" opacity="0.0551539179"></line>
+                    </g>
+                    <g id="Big-Numbers" transform="translate(139.000000, 426.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="65" font-weight="400" opacity="0.600571362">
+                        <text id="91">
+                            <tspan x="0.36" y="63">91</tspan>
+                        </text>
+                        <text id="138" letter-spacing="-9">
+                            <tspan x="114.44" y="63">1</tspan>
+                            <tspan x="141.58" y="63" letter-spacing="-1.29999995">3</tspan>
+                            <tspan x="176.42" y="63">8</tspan>
+                        </text>
+                        <text id="50">
+                            <tspan x="256.36" y="63">50</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="969px" height="495px" viewBox="0 0 969 495" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Axis + Grid</title>
+    <defs>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="62.2285207%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#46D4D3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="1.13686838e-13" y="156.645348" width="129.142857" height="189.354652"></rect>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="62.2285207%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#46D4D3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-4" x="129.142857" y="206.935845" width="129.142857" height="139.064155"></rect>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="62.2285207%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#46D4D3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-6" x="258.285714" y="259.412884" width="129.142857" height="86.5871157"></rect>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="62.2285207%" y2="50%" id="linearGradient-7">
+            <stop stop-color="#46D4D3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-8" x="387.428571" y="87.9878877" width="129.142857" height="258.012112"></rect>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="62.2285207%" y2="50%" id="linearGradient-9">
+            <stop stop-color="#46D4D3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-10" x="516.571429" y="0.526154702" width="129.142857" height="345.473845"></rect>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="62.2285207%" y2="50%" id="linearGradient-11">
+            <stop stop-color="#46D4D3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-12" x="645.714286" y="132.593372" width="129.142857" height="213.406628"></rect>
+        <linearGradient x1="-1.11022302e-14%" y1="50%" x2="62.2285207%" y2="50%" id="linearGradient-13">
+            <stop stop-color="#46D4D3" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-14" x="774.857143" y="66.1224544" width="129.142857" height="279.877546"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-" transform="translate(-450.000000, -261.000000)">
+            <g id="Conversion-Box" transform="translate(408.000000, 139.000000)">
+                <rect id="BG-Conversion" fill="#FFFFFF" x="0" y="0" width="1068" height="704" rx="10"></rect>
+                <g id="Background-Graph" transform="translate(106.000000, 136.000000)">
+                    <rect id="Rectangle-23" fill="#C4C4C4" opacity="0.181669776" x="0" y="0" width="129.142857" height="438"></rect>
+                    <rect id="Rectangle-23-Copy" fill="#C3C3C3" opacity="0.111124067" x="129.142857" y="0" width="129.142857" height="438"></rect>
+                    <rect id="Rectangle-23-Copy-2" fill="#C4C4C4" opacity="0.181669776" x="258.285714" y="0" width="129.142857" height="438"></rect>
+                    <rect id="Rectangle-23-Copy-3" fill="#C3C3C3" opacity="0.111124067" x="387.428571" y="0" width="129.142857" height="438"></rect>
+                    <rect id="Rectangle-23-Copy-4" fill="#C4C4C4" opacity="0.181669776" x="516.571429" y="0" width="129.142857" height="438"></rect>
+                    <rect id="Rectangle-23-Copy-5" fill="#C3C3C3" opacity="0.111124067" x="645.714286" y="0" width="129.142857" height="438"></rect>
+                    <rect id="Rectangle-23-Copy-6" fill="#C4C4C4" opacity="0.181669776" x="774.857143" y="0" width="129.142857" height="438"></rect>
+                </g>
+                <g id="Graphs" transform="translate(106.000000, 216.000000)">
+                    <g id="Block-Graph" transform="translate(0.000000, 12.000000)" opacity="0.665928172">
+                        <g id="Rectangle-23-Copy-13">
+                            <use fill="#A3FFE2" xlink:href="#path-2"></use>
+                            <use fill-opacity="0.129999995" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <use fill-opacity="0.300000012" fill="#43D7C5" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="Rectangle-23-Copy-12">
+                            <use fill="#A3FFE2" xlink:href="#path-4"></use>
+                            <use fill-opacity="0.129999995" fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
+                            <use fill-opacity="0.300000012" fill="#43D7C5" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Rectangle-23-Copy-11">
+                            <use fill="#A3FFE2" xlink:href="#path-6"></use>
+                            <use fill-opacity="0.129999995" fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                            <use fill-opacity="0.300000012" fill="#43D7C5" xlink:href="#path-6"></use>
+                        </g>
+                        <g id="Rectangle-23-Copy-10">
+                            <use fill="#A3FFE2" xlink:href="#path-8"></use>
+                            <use fill-opacity="0.129999995" fill="url(#linearGradient-7)" xlink:href="#path-8"></use>
+                            <use fill-opacity="0.300000012" fill="#43D7C5" xlink:href="#path-8"></use>
+                        </g>
+                        <g id="Rectangle-23-Copy-9">
+                            <use fill="#A3FFE2" xlink:href="#path-10"></use>
+                            <use fill-opacity="0.129999995" fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                            <use fill-opacity="0.300000012" fill="#43D7C5" xlink:href="#path-10"></use>
+                        </g>
+                        <g id="Rectangle-23-Copy-8">
+                            <use fill="#A3FFE2" xlink:href="#path-12"></use>
+                            <use fill-opacity="0.129999995" fill="url(#linearGradient-11)" xlink:href="#path-12"></use>
+                            <use fill-opacity="0.300000012" fill="#43D7C5" xlink:href="#path-12"></use>
+                        </g>
+                        <g id="Rectangle-23-Copy-7">
+                            <use fill="#A3FFE2" xlink:href="#path-14"></use>
+                            <use fill-opacity="0.129999995" fill="url(#linearGradient-13)" xlink:href="#path-14"></use>
+                            <use fill-opacity="0.300000012" fill="#43D7C5" xlink:href="#path-14"></use>
+                        </g>
+                    </g>
+                    <g id="Line-Graph" transform="translate(52.000000, 0.000000)" stroke="#46A9D4">
+                        <path d="M13.5053312,168.36919 L136.370741,219.674446 L270.679342,272.322456 L402.227711,100.466855 L529.877659,12.8097608 L658.247316,145.953572 L787.744907,77.5755971" id="Path-7" stroke-width="6" stroke-dasharray="5"></path>
+                        <circle id="Oval-1" stroke-width="3" fill="#FFFFFF" cx="13" cy="169" r="11.5"></circle>
+                        <circle id="Oval-1-Copy" stroke-width="3" fill="#FFFFFF" cx="136" cy="219" r="11.5"></circle>
+                        <circle id="Oval-1-Copy-2" stroke-width="3" fill="#FFFFFF" cx="271" cy="271" r="11.5"></circle>
+                        <circle id="Oval-1-Copy-3" stroke-width="3" fill="#FFFFFF" cx="402" cy="100" r="11.5"></circle>
+                        <circle id="Oval-1-Copy-4" stroke-width="3" fill="#FFFFFF" cx="530" cy="13" r="11.5"></circle>
+                        <circle id="Oval-1-Copy-5" stroke-width="3" fill="#FFFFFF" cx="658" cy="145" r="11.5"></circle>
+                        <circle id="Oval-1-Copy-6" stroke-width="3" fill="#FFFFFF" cx="788" cy="78" r="11.5"></circle>
+                    </g>
+                </g>
+                <g id="Big-Numbers" transform="translate(134.000000, 488.000000)" fill="#FFFFFF" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="65" font-weight="400" opacity="0.600571362">
+                    <text id="43">
+                        <tspan x="0" y="64">43</tspan>
+                    </text>
+                    <text id="31">
+                        <tspan x="129.36" y="64">31</tspan>
+                    </text>
+                    <text id="29">
+                        <tspan x="258.36" y="64">29</tspan>
+                    </text>
+                    <text id="58">
+                        <tspan x="387.36" y="64">58</tspan>
+                    </text>
+                    <text id="78">
+                        <tspan x="516.36" y="64">78</tspan>
+                    </text>
+                    <text id="47">
+                        <tspan x="647" y="64">47</tspan>
+                    </text>
+                    <text id="63">
+                        <tspan x="776" y="63">63</tspan>
+                    </text>
+                </g>
+                <g id="Axis-+-Grid" transform="translate(42.000000, 122.000000)">
+                    <g id="Y-Axis" fill="#9A9A9A" font-family="HelveticaNeue, Helvetica Neue" font-size="23" font-weight="normal">
+                        <text id="20">
+                            <tspan x="13" y="370">20</tspan>
+                        </text>
+                        <text id="40">
+                            <tspan x="13" y="283">40</tspan>
+                        </text>
+                        <text id="60">
+                            <tspan x="13" y="196">60</tspan>
+                        </text>
+                        <text id="80">
+                            <tspan x="13" y="109">80</tspan>
+                        </text>
+                        <text id="100">
+                            <tspan x="0" y="22.9455">100</tspan>
+                        </text>
+                        <text id="0">
+                            <tspan x="26" y="458.9455">0</tspan>
+                        </text>
+                    </g>
+                    <g id="X-Axis" transform="translate(102.000000, 467.000000)" fill="#9A9A9A" font-family="HelveticaNeue, Helvetica Neue" font-size="23" font-weight="normal">
+                        <text id="Mon">
+                            <tspan x="0.571428571" y="22">Mon</tspan>
+                        </text>
+                        <text id="Tue">
+                            <tspan x="136" y="22">Tue</tspan>
+                        </text>
+                        <text id="Wed">
+                            <tspan x="262" y="22">Wed</tspan>
+                        </text>
+                        <text id="Thu">
+                            <tspan x="396" y="22">Thu</tspan>
+                        </text>
+                        <text id="Fri">
+                            <tspan x="531" y="22">Fri</tspan>
+                        </text>
+                        <text id="Sat">
+                            <tspan x="658" y="22">Sat</tspan>
+                        </text>
+                        <text id="Sun">
+                            <tspan x="778.928571" y="22">Sun</tspan>
+                        </text>
+                    </g>
+                    <g id="Grid" transform="translate(64.000000, 100.000000)" opacity="0.156308302" stroke="#5AA5E0" stroke-linecap="square" stroke-width="2">
+                        <line x1="0.5" y1="1" x2="903.502197" y2="1" id="Line-Copy"></line>
+                        <line x1="0.5" y1="88" x2="903.502197" y2="88" id="Line-Copy-3"></line>
+                        <line x1="0.5" y1="175" x2="903.502197" y2="175" id="Line-Copy-2"></line>
+                        <line x1="0.5" y1="262" x2="903.502197" y2="262" id="Line-Copy-5"></line>
+                        <line x1="0.5" y1="351" x2="903.502197" y2="351" id="Line-Copy-4"></line>
+                    </g>
+                </g>
+            </g>
+            <text id="Smart-Admin-Dashboar" font-family="Helvetica" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="882" y="599">Smart Admin Dashboard Psd</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

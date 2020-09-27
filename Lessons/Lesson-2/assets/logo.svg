@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="46px" viewBox="0 0 61 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Page 1</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="2071" height="99"></rect>
+        <filter x="-0.3%" y="-5.6%" width="100.6%" height="113.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.130293252 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M100.789612,7.24288311 L100.788001,7.27103761 C99.4519829,29.9829946 87.3371096,51.6308329 66.4239105,64.1967507 C64.9845708,65.0615932 63.526813,65.8694417 62.0532481,66.6209532 C62.2002114,68.4772425 62.2746114,70.356223 62.2746114,72.252505 C62.2746114,96.5543389 50.0553485,118.014612 31.4004142,130.874866 C12.7430167,118.015381 0.523316062,96.5547742 0.523316062,72.252505 C0.523316062,70.8552502 0.563710181,69.4673889 0.643399141,68.0900157 C0.513765461,68.03392 0.383385185,67.9751471 0.253166674,67.9159779 C1.58197877,45.1933601 13.6981636,23.5333547 34.6196422,10.9624621 C55.4569131,-1.55783338 80.1542973,-2.13317504 100.789612,7.24288311 Z" id="path-3"></path>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#E5EC51" offset="0%"></stop>
+            <stop stop-color="#DEFF4C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-2.48949813e-15%" x2="50%" y2="136.406344%" id="linearGradient-6">
+            <stop stop-color="#00FFD0" offset="0%"></stop>
+            <stop stop-color="#009FFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Data-" transform="translate(-51.000000, -28.000000)">
+            <g id="BG-Top">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="Panel-Left" transform="translate(0.000000, -57.000000)">
+                <rect id="BG-Panel-Left" fill="#505275" x="0" y="57" width="369" height="1543"></rect>
+                <g id="Head">
+                    <rect id="BG" fill="#46A9D4" x="0" y="57" width="369" height="99"></rect>
+                    <g id="Logo" transform="translate(50.000000, 0.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Mask"></g>
+                        <ellipse id="Oval-25" fill="url(#linearGradient-5)" mask="url(#mask-4)" cx="72.0867876" cy="155.619238" rx="71.5634715" ry="71.252505"></ellipse>
+                        <path d="M49.2743614,114.657513 C36.3242454,96.3369639 14.921692,84.3667335 -9.2888601,84.3667335 C-28.4436837,84.3667335 -45.840811,91.8596248 -58.6848601,104.062173 C-72.3427867,117.037948 -80.8523316,135.339156 -80.8523316,155.619238 C-80.8523316,194.97091 -48.8122741,226.871743 -9.2888601,226.871743 C30.2345539,226.871743 62.2746114,194.97091 62.2746114,155.619238" id="Oval-25" fill-opacity="0.50999999" fill="url(#linearGradient-6)" mask="url(#mask-4)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
