@@ -7,7 +7,7 @@
   </head>
   <body>
     <div class="app">
-      <nav class="navigation">
+      <nav class="navigation flex-column">
         <div class="navigation-header">
           <div class="logo">
             <img src="assets/logo.svg"/>
@@ -30,45 +30,47 @@
             <li class="navigation-group-item"><img src="assets/dots.svg"/>More</li>
           </ul>
           <div class="empty-space"></div>
-          <div class="action"><button><img src="assets/plus.svg">Add Project</button></div>
+          <div class="action flex-center">
+            <button class="flex-center"><img src="assets/plus.svg">Add Project</button>
+          </div>
       </nav>
       <section class="app-content">
-        <header class="app-header">
+        <header class="app-header flex-items-center">
           <ul class="app-header-list">
             <li class="app-header-list-item active"><a href="">Last 7 days</a></li>
             <li class="app-header-list-item"><a href="">Last 14 days</a></li>
             <li class="app-header-list-item"><a href="">Last 30 days</a></li>
             <li class="app-header-list-item"><a href="">Custom range</a></li>
           </ul>
-          <div class="app-header-actions">
+          <div class="app-header-actions flex-items-center">
             <input placeholder="Search..." type="text">
             <img src="assets/profile.svg" alt="profile-picture">
           </div>
         </header>      
         <main class="main-content">
           <section class="card">
-            <div class="card-header">
+            <div class="card-header flex-items-center">
               <img class="card-header-icon" alt="grid-icon" src="assets/grid.svg"/>
               <h3 class="card-header-title">Conversion Percentage</h3>
               <img class="card-header-icon" alt="gear-icon" src="assets/gear.svg"/>
             </div>
-            <div class="card-content">
+            <div class="card-content flex-column">
               <img class="card-content-conversion-percentage" alt="conversion-percentage" src="assets/conversion-percentage.svg"/>
               <img class="conversion-arrows" alt="conversion-arrow" src="assets/conversion-arrows.svg"/>
             </div>
           </section>
           <section class="card">
-            <div class="card-header">
+            <div class="card-header flex-items-center">
               <img class="card-header-icon" alt="grid-icon" src="assets/grid.svg"/>
               <h3 class="card-header-title">Average Conversion</h3>
               <img class="card-header-icon" alt="gear-icon" src="assets/gear.svg"/>
             </div>
-            <div class="card-content no-padding full-height">              
+            <div class="card-content flex-column no-padding full-height">              
               <div class="totals">
                 <p class="average">49.8%</p>
                 <p class="weekly-change">+3.2% weekly</p>
               </div>
-              <ul class="markets">
+              <ul class="markets flex-items-center">
                 <li class="positive">
                   <p class="percentage">51.3%</p>
                   <p class="location">Europe</p>
@@ -87,22 +89,22 @@
         </main>
         <main class="main-content reverse">
           <section class="card">
-            <div class="card-header">
+            <div class="card-header flex-items-center">
               <img class="card-header-icon" alt="grid-icon" src="assets/grid.svg"/>
               <h3 class="card-header-title">Margin Percentage</h3>
               <img class="card-header-icon" alt="gear-icon" src="assets/gear.svg"/>
             </div>
-            <div class="card-content">
+            <div class="card-content flex-column">
               <img class="card-content-margin-percentage" alt="margin-percentage" src="assets/margin-percentage.svg"/>
             </div>
           </section>
           <section class="card">
-            <div class="card-header">
+            <div class="card-header flex-items-center">
               <img class="card-header-icon" alt="grid-icon" src="assets/grid.svg"/>
               <h3 class="card-header-title">New Additions</h3>
               <img class="card-header-icon" alt="gear-icon" src="assets/gear.svg"/>
             </div>
-            <div class="card-content no-padding card-content-table">
+            <div class="card-content flex-column no-padding card-content-table">
               <div class="table">    
                 <div class="table-header">
                   <div>Company Name</div>
